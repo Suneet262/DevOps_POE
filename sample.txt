@@ -1,2 +1,4 @@
 //This is sample text file to check the git undo commands of both the type i.e. soft and hard 
 git bracnh -d <>
+git bracnh -d <>
+git rebase -i HEAD~4
